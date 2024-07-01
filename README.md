@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JuukoHenry12
-- 👀 I’m interested in Node js and python programming
+- 👀 I have 5 years of experience in programming with JavaScript, Python, Java, the Spring Boot framework, and Django.
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me at juukohenry23@gmail.com
