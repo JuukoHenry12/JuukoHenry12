@@ -1,4 +1,4 @@
-# Henry Juuko 👋
+# Henry Juuko 
 
 **Full-Stack Software Engineer | Backend Systems Specialist | DevOps Enthusiast**
 
@@ -121,10 +121,4 @@ I'm always interested in connecting with fellow developers, exploring new opport
 
 ---
 
-## 💡 Philosophy
 
-I believe in writing **clean, maintainable code** that solves real-world problems efficiently. I'm committed to continuous learning, staying updated with industry trends, and sharing knowledge with the developer community. Every project is an opportunity to grow and deliver excellence.
-
----
-
-**Thanks for visiting! Let's build something amazing together. 🚀**
