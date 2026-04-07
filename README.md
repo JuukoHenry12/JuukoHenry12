@@ -1,6 +1,6 @@
 # Hi, I'm Henry Juuko 👋
 
-**Full-Stack Software Engineer | 7+ Years Experience**
+**Full-Stack Software Engineer | 5+ Years Experience**
 
 I build scalable web applications with modern technologies. I specialize in **backend systems** and **frontend development**, and I'm currently learning **DevOps**.
 
