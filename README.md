@@ -11,7 +11,7 @@ I build scalable web applications with modern technologies. I specialize in **ba
 
 **Frontend:** React.js, Next.js, Angular, HTML5, CSS3, Tailwind CSS
 
-**Backend:** Spring Boot, Django, REST APIs
+**Backend:** Spring Boot, C#(.Net)
 
 **DevOps:** Docker, GitHub Actions, Azure DevOps, AWS
 
