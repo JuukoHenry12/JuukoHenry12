@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F5C4F,100:1F5F8B&height=200&section=header&text=Henry%20Juuko&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=55&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0F5C4F&center=true&vCenter=true&width=650&lines=Java+Spring+Boot+%7C+.NET+%7C+Angular+%7C+Next.js;Enterprise+%26+logistics+systems+in+production;7%2B+years+shipping+software+that+runs+businesses" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0F5C4F&center=true&vCenter=true&width=650&lines=Java+Spring+Boot+%7C+.NET+%7C+Angular+%7C+Next.js;Enterprise+%26+logistics+systems+in+production;5%2B+years+shipping+software+that+runs+businesses" alt="Typing SVG" />
 
 <br/>
 
@@ -73,12 +73,18 @@ BSc Software Engineering, Makerere University · Azure & Kubernetes certified.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JuukoHenry12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuukoHenry12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss" />
+[![Followers](https://img.shields.io/github/followers/JuukoHenry12?style=for-the-badge&logo=github&label=Followers&color=0F5C4F)](https://github.com/JuukoHenry12?tab=followers)
+[![Stars](https://img.shields.io/github/stars/JuukoHenry12?style=for-the-badge&logo=github&label=Stars&color=1F5F8B)](https://github.com/JuukoHenry12?tab=repositories)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/JuukoHenry12&query=$.public_repos&style=for-the-badge&logo=github&label=Repositories&color=B4531B)](https://github.com/JuukoHenry12?tab=repositories)
 
-<img height="170" src="https://streak-stats.demolab.com?user=JuukoHenry12&theme=tokyonight&hide_border=true" />
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=JuukoHenry12&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=6" />
+<img alt="Henry Juuko's GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=JuukoHenry12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" />
+<img alt="Most used languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuukoHenry12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss&cache_seconds=86400" />
+
+<br/>
+
+<img alt="Contribution streak" height="170" src="https://streak-stats.demolab.com?user=JuukoHenry12&theme=tokyonight&hide_border=true&card_width=480" />
 
 </div>
 
@@ -128,7 +134,7 @@ BSc Software Engineering, Makerere University · Azure & Kubernetes certified.
 ![Google](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta-Back--End%20Developer-0668E1?style=for-the-badge&logo=meta&logoColor=white)
 
-*In progress — Azure Solutions Architect Expert (AZ-305)*
+*In progress — Microsoft DevOps Engineer Expert (AZ-400)*
 
 </div>
 
