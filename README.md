@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F5C4F,100:1F5F8B&height=200&section=header&text=Henry%20Juuko&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=55&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0F5C4F&center=true&vCenter=true&width=650&lines=Java+Spring+Boot+%7C+.NET+%7C+Angular+%7C+Next.js;Enterprise+%26+logistics+systems+in+production;5%2B+years+shipping+software+that+runs+businesses" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0F5C4F&center=true&vCenter=true&width=650&lines=Java+Spring+Boot+%7C+.NET+%7C+Angular+%7C+Next.js;Enterprise+%26+logistics+systems+in+production;7%2B+years+shipping+software+that+runs+businesses" alt="Typing SVG" />
 
 <br/>
 
